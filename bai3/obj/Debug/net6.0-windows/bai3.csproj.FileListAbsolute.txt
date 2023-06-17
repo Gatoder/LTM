@@ -1,0 +1,34 @@
+C:\Users\Admin\Desktop\LAB5\bai3\bin\Debug\net6.0-windows\bai3.exe
+C:\Users\Admin\Desktop\LAB5\bai3\bin\Debug\net6.0-windows\bai3.deps.json
+C:\Users\Admin\Desktop\LAB5\bai3\bin\Debug\net6.0-windows\bai3.runtimeconfig.json
+C:\Users\Admin\Desktop\LAB5\bai3\bin\Debug\net6.0-windows\bai3.dll
+C:\Users\Admin\Desktop\LAB5\bai3\bin\Debug\net6.0-windows\bai3.pdb
+C:\Users\Admin\Desktop\LAB5\bai3\obj\Debug\net6.0-windows\bai3.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\LAB5\bai3\obj\Debug\net6.0-windows\bai3.Form1.resources
+C:\Users\Admin\Desktop\LAB5\bai3\obj\Debug\net6.0-windows\bai3.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\LAB5\bai3\obj\Debug\net6.0-windows\bai3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\LAB5\bai3\obj\Debug\net6.0-windows\bai3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\LAB5\bai3\obj\Debug\net6.0-windows\bai3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\LAB5\bai3\obj\Debug\net6.0-windows\bai3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LAB5\bai3\obj\Debug\net6.0-windows\bai3.dll
+C:\Users\Admin\Desktop\LAB5\bai3\obj\Debug\net6.0-windows\refint\bai3.dll
+C:\Users\Admin\Desktop\LAB5\bai3\obj\Debug\net6.0-windows\bai3.pdb
+C:\Users\Admin\Desktop\LAB5\bai3\obj\Debug\net6.0-windows\bai3.genruntimeconfig.cache
+C:\Users\Admin\Desktop\LAB5\bai3\obj\Debug\net6.0-windows\ref\bai3.dll
+C:\Users\Admin\Documents\New folder\LAB5\bai3\bin\Debug\net6.0-windows\bai3.exe
+C:\Users\Admin\Documents\New folder\LAB5\bai3\bin\Debug\net6.0-windows\bai3.deps.json
+C:\Users\Admin\Documents\New folder\LAB5\bai3\bin\Debug\net6.0-windows\bai3.runtimeconfig.json
+C:\Users\Admin\Documents\New folder\LAB5\bai3\bin\Debug\net6.0-windows\bai3.dll
+C:\Users\Admin\Documents\New folder\LAB5\bai3\bin\Debug\net6.0-windows\bai3.pdb
+C:\Users\Admin\Documents\New folder\LAB5\bai3\obj\Debug\net6.0-windows\bai3.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\New folder\LAB5\bai3\obj\Debug\net6.0-windows\bai3.Form1.resources
+C:\Users\Admin\Documents\New folder\LAB5\bai3\obj\Debug\net6.0-windows\bai3.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\New folder\LAB5\bai3\obj\Debug\net6.0-windows\bai3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\New folder\LAB5\bai3\obj\Debug\net6.0-windows\bai3.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\New folder\LAB5\bai3\obj\Debug\net6.0-windows\bai3.AssemblyInfo.cs
+C:\Users\Admin\Documents\New folder\LAB5\bai3\obj\Debug\net6.0-windows\bai3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\New folder\LAB5\bai3\obj\Debug\net6.0-windows\bai3.dll
+C:\Users\Admin\Documents\New folder\LAB5\bai3\obj\Debug\net6.0-windows\refint\bai3.dll
+C:\Users\Admin\Documents\New folder\LAB5\bai3\obj\Debug\net6.0-windows\bai3.pdb
+C:\Users\Admin\Documents\New folder\LAB5\bai3\obj\Debug\net6.0-windows\bai3.genruntimeconfig.cache
+C:\Users\Admin\Documents\New folder\LAB5\bai3\obj\Debug\net6.0-windows\ref\bai3.dll
